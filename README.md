@@ -31,3 +31,21 @@ My personal collection of complete game development series.
 | Space Invaders | baseball435 | LibGDX | Java | [Watch](https://www.youtube.com/watch?v=_rVS1zHThZ0) |
 | Flappy Bird clone | Brent Aureli | LibGDX | Java | [Watch](https://www.youtube.com/playlist?list=PLZm85UZQLd2TPXpUJfDEdWTSgszionbJy) |
 | Snake | Meir Yanovich | Cocos2DX HTML5 | Javascript | [Read](http://www.gamedevcraft.com/2015/09/cross-platform-snake-game-in-javascript.html) |
+| Angry Bird clone | Unity Live Training | Unity | C# | [Watch](https://unity3d.com/learn/tutorials/topics/physics/making-angry-birds-style-game-part-1) |
+| 2D Catch Game | Unity Live Training | Unity | C# | [Watch](https://unity3d.com/learn/tutorials/topics/2d-game-creation/2d-catch-game-pt-1) |
+| Basic Platformer | Unity Live Training | Unity | C# | [Watch](https://unity3d.com/learn/tutorials/topics/2d-game-creation/creating-basic-platformer-game) |
+| Breakout | Unity Live Training | Unity | C# | [Watch](https://unity3d.com/learn/tutorials/modules/beginner/live-training-archive/creating-a-breakout-game) |
+| Casual Jewel Mining | Unity Live Training | Unity | C# | [Watch](https://unity3d.com/learn/tutorials/projects/lets-try-assignments/creating-casual-jewel-mining-game) |
+| 2D Mario clone | CoffeeBreakCodes | Unity | C# | [Read](http://coffeebreakcodes.com/sample-projects-unity/2d-mario-game-unity3d/) |
+| Snake Game | CoffeeBreakCodes | Unity | C# | [Read](http://coffeebreakcodes.com/sample-projects-unity/2d-snake-game-unity3d-c/) |
+| Flappy Bird clone | Anwell Wang | Unity | C# | [Read](http://anwell.me/articles/unity3d-flappy-bird/) |
+| 2D Tetris | noobtuts | Unity | C# | [Read](https://noobtuts.com/unity/2d-tetris-game) |
+| Pacman | noobtuts | Unity | C# | [Read](https://noobtuts.com/unity/2d-pacman-game) |
+| Minesweeper | noobtuts | Unity | C# | [Read](https://noobtuts.com/unity/2d-minesweeper-game) |
+| Tower Defense | noobtuts | Unity | C# | [Read](https://noobtuts.com/unity/tower-defense-game) |
+| Mario clone | nihongoresources | ProcessingJS | Javascript | [Read](http://processingjs.nihongoresources.com/test/PjsGameEngine/docs/tutorial/mario.html) |
+| Pong clone | grogansoft | Unity | C# | [Read](http://unity.grogansoft.com/beginners-guide-create-a-pong-clone-in-unity-part-1/) |
+| Mini Games | Aaron Cox | SDL | C++ | [Read](http://www.aaroncox.net/tutorials/arcade/index.html) |
+| Space Invaders clone | Christian Thompson | - | Python | [Watch](http://www.christianthompson.com/node/45) |
+| Pacman | mass:werk | - | Javascript | [Read](http://www.masswerk.at/JavaPac/pacman-howto.html) |
+| 2048 | Scrambled Eggs | - | Elm | [Read](http://scrambledeggsontoast.github.io/2014/05/09/writing-2048-elm/) |
